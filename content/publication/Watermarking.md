@@ -4,7 +4,7 @@ date = 2018-02-02T13:53:25-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = `["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]`
+authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = `["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Dynamic Watermarking for General LTI Systems"
