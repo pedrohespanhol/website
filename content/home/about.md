@@ -28,7 +28,7 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in Industrial Engineering and Operations Research"
-  institution = "Pontifícia Universidade Católica do Rio de Janeiro"
+  institution = "Pontificia Universidade Catolica do Rio de Janeiro"
   year = "2010-2014"
  
 +++

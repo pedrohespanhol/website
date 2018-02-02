@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,6 +15,11 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Engineering Statistics, Quality Control, and Forecasting (IEOR 165, Spring 2018): 
+	http://ieor.berkeley.edu/~ieor165/
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+Service Operations Design and Analysis (IEOR 151, Fall 2017):
+	http://ieor.berkeley.edu/~ieor151/
+
+Learning and Optimization (IEOR 265, Spring 2017): 
+	http://ieor.berkeley.edu/~aaswani/teaching/SP17/265/
