@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Industrial Engineering and Operations Research"
   institution = "University of California Berkeley"
-  year = present
+  year = "present"
 
 [[education.courses]]
   course = "MS in Industrial Engineering and Operations Research"
@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "BSc in Industrial Engineering and Operations Research"
   institution = "Pontifícia Universidade Católica do Rio de Janeiro"
-  year = 2010-2014
+  year = "2010-2014"
  
 +++
 
