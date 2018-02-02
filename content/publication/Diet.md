@@ -1,10 +1,10 @@
 +++
-title = ""
+title = "Family-Personalized Dietary Planning with Temporal Dynamics"
 date = 2018-02-02T14:01:16-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = "Pedro Hespanhol, Anil Aswani"
+authors = ["Pedro Hespanhol", "Anil Aswani"]
 
 # Publication type.
 # Legend:
