@@ -1,6 +1,5 @@
 +++
-title = "A Structure Exploiting Branch-and-Bound Algorithm for Mixed-Integer
-Model Predictive Control"
+title = "A Structure Exploiting Branch-and-Bound Algorithm for Mixed-Integer Model Predictive Control"
 date = 2019-03-20T15:27:19-07:00
 draft = false
 
