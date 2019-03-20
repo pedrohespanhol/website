@@ -1,10 +1,10 @@
 +++
-title = "A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control"
-date = 2019-03-20T14:28:45-07:00
+title = "Simulation and Real-World Evaluation of Attack Detection Schemes"
+date = 2019-03-20T15:24:28-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Rien Quirynen"]
+authors = ["Matthew Porter", "Arnav Joshi", "Pedro Hespanhol", "Anil Aswani", "Matthew Johnson-Roberson", "Ram Vasudevan"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control"
+publication = "Simulation and Real-World Evaluation of Attack Detection Schemes"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8550541"
+url_pdf = "https://arxiv.org/abs/1810.07773"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
