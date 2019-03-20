@@ -37,5 +37,6 @@ weight = 5
 
 Ph.D student in Industrial Engineering and Operations Research at UC Berkeley. Previous work experience in
 software development, data science and optimization algorithms.
-Current research interests are: control-based optimization, machine learning, and learning-based mechanism design.
-Also interested in all aspects of computational optimization, from modeling techniques to practical implementations.
+Current research interests are: control-based optimization, machine learning, and learning-based mechanism
+design. Also interested in all aspects of computational optimization, from modeling techniques to practical
+implementations.
