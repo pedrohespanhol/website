@@ -1,10 +1,10 @@
 +++
-title = "Dynamic Watermarking for General LTI Systems"
-date = 2018-02-02T13:53:25-08:00
+title = "Pseudo"
+date = 2019-03-20T14:53:32-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
+authors = ["Pedro Hepanhol,Rien Quirynen"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Dynamic Watermarking for General LTI Systems"
+publication = "Quasi-Newton Jacobian and Hessian Updates for Pseudospectral based NMPC"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8263914"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2405896318326417"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

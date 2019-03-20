@@ -4,7 +4,7 @@ date = 2018-02-02T14:01:16-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro HespAYAYAanhol", "Anil Aswani"]
+authors = ["Pedro Hespanhol", "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1703.07932.pdf"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8430885"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

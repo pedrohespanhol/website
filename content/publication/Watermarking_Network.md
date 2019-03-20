@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1709.08617.pdf"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8431569"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

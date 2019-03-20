@@ -1,10 +1,10 @@
 +++
-title = "Dynamic Watermarking for General LTI Systems"
-date = 2018-02-02T13:53:25-08:00
+title = "TR1_ECC"
+date = 2019-03-20T14:28:45-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
+authors = ["Pedro Hespanhol, Rien Quirynen"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Dynamic Watermarking for General LTI Systems"
+publication = "A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8263914"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8550541"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
