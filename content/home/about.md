@@ -35,10 +35,8 @@ weight = 5
 
 # Biography
 
-I am a Ph.D student in Industrial Engineering and Operations Research at UC Berkeley working with Professor  [Anil Aswani](https://aswani.ieor.berkeley.edu/). My research is mainly focused on the interplay between control systems and optimization, with emphasis on safety and performance of cyber physical and autonomous systems. I have work experience with software development of embeddable optimization algorithms for real-time applications as well as large-scale optimization problems.
-I am also interested in all aspects of computational optimization, from modeling techniques to practical
-implementations.
+I am a Ph.D student in Industrial Engineering and Operations Research at UC Berkeley working with Professor [Anil Aswani](https://aswani.ieor.berkeley.edu/). My research is mainly focused on the interplay between control, learning and optimization, with emphasis on autonomous systems, such as self-driving vehicles, sattelites, and robots. In particular, I am interested in optimization algorithms and statistical techniques that can be combined in order to provided safe and efficient operation of such systems. I have work experience with software development of embeddable optimization algorithms for real-time applications, including nonlinear, hybdrid, and stochastic systems. I am also interested in all aspects of computational optimization, from modeling techniques to state-of-the-art practical implementations.
 
-I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mistubishi Electric Research Laboratories [MERL](http://www.merl.com/).
+I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with Reseachers [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mistubishi Electric Research Laboratories [MERL](http://www.merl.com/).
 
-{{% staticref "files/Pedro Hespanhol Resume_FULL.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/Pedro Hespanhol Resume_FULL.pdf" "newtab" %}}My CV{{% /staticref %}}
