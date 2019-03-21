@@ -1,6 +1,6 @@
 +++
 title = "Quasi-Newton Jacobian and Hessian Updates for Pseudospectral based NMPC"
-date = 2019-03-20T14:53:32-07:00
+date = 2018-08-08T14:53:32-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

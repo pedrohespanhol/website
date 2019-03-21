@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Optimal Control",
-    "Machine Learning",
-    "Mixed-Integer Optimization"
+    "Mixed-Integer Optimization",
+    "Machine Learning and High Dimensional Statistics",
   ]
 
 # List your qualifications (such as academic degrees).

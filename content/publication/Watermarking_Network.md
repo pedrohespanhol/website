@@ -1,6 +1,6 @@
 +++
 title = "Statistical Watermarking for Networked Control Systems"
-date = 2018-02-02T14:03:57-08:00
+date = 2017-08-08T14:03:57-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

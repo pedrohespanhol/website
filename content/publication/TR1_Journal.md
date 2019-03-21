@@ -1,6 +1,6 @@
 +++
 title = "Adjoint-based SQP Method with Block-wise quasi-Newton Jacobian Updates for Nonlinear Optimal Control"
-date = 2019-03-20T15:16:08-07:00
+date = 2018-08-08T15:16:08-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

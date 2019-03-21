@@ -1,6 +1,6 @@
 +++
 title = "A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control"
-date = 2019-03-20T14:28:45-07:00
+date = 2018-08-08T14:28:45-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

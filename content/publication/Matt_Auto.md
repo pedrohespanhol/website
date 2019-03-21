@@ -1,6 +1,6 @@
 +++
 title = "Simulation and Real-World Evaluation of Attack Detection Schemes"
-date = 2019-03-20T15:24:28-07:00
+date = 2018-08-05T15:24:28-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
