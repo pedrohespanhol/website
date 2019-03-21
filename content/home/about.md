@@ -39,4 +39,6 @@ I am a Ph.D student in Industrial Engineering and Operations Research at UC Berk
 I am also interested in all aspects of computational optimization, from modeling techniques to practical
 implementations.
 
-I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mistubishi Electric Research Laboratories [MERL](http://www.merl.com/)
+I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mistubishi Electric Research Laboratories [MERL](http://www.merl.com/).
+
+{{% staticref "files/Pedro Hespanhol Resume_FULL.pdf" "newtab" %}}Download my CV{{% /staticref %}}
