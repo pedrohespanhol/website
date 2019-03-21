@@ -1,6 +1,6 @@
 +++
 title = "Impact of Occupancy Modeling and Horizon Length on HVAC Controller Efficiency"
-date = 2017-08-05T15:22:33-07:00
+date = 2017-08-05T15:21:33-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

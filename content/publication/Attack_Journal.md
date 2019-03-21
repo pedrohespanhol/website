@@ -1,6 +1,6 @@
 +++
 title = "Finite-Time Dynamic Watermarking for General LTI Systems with Switching"
-date = 2019-03-20T15:30:08-07:00
+date = 2017-01-01T15:30:08-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

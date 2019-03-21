@@ -1,6 +1,6 @@
 +++
 title = "Surrogate Optimal Control for Strategic Multi-Agent Systems"
-date = 2019-03-20T15:18:09-07:00
+date = 2019-03-21T15:18:09-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
