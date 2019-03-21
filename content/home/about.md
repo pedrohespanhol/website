@@ -35,7 +35,9 @@ weight = 5
 
 # Biography
 
-I am a Ph.D student in Industrial Engineering and Operations Research at UC Berkeley working with Professor [Anil Aswani](https://aswani.ieor.berkeley.edu/). My research is mainly focused on the interplay between control, learning and optimization, with emphasis on autonomous systems, such as self-driving vehicles, sattelites, and robots. In particular, I am interested in optimization algorithms and statistical techniques that can be combined in order to provided safe and efficient operation of such systems. I have work experience with software development of embeddable optimization algorithms for real-time applications, including nonlinear, hybdrid, and stochastic systems. I am also interested in all aspects of computational optimization, from modeling techniques to state-of-the-art practical implementations.
+I am a Ph.D student in Industrial Engineering and Operations Research at UC Berkeley working with Professor [Anil Aswani](https://aswani.ieor.berkeley.edu/). I obtained my Bachelor's degree in Industrial Engineering at Pontificia Universidade Catolica do Rio De Janeiro, Brazil.
+
+My research is mainly focused on the interplay between control, learning and optimization, with emphasis on autonomous systems, such as self-driving vehicles, sattelites, and robots. In particular, I am interested in optimization algorithms and statistical learning techniques that are able to provide safe and efficient operation of such systems. I have work experience with software development of embeddable algorithms for real-time applications, including nonlinear, hybdrid, and stochastic systems. I am also interested in all aspects of computational optimization, from modeling techniques to state-of-the-art practical implementations.
 
 I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with Reseachers [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mistubishi Electric Research Laboratories [MERL](http://www.merl.com/).
 

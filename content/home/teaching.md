@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Math Programmin I (IEOR 262A, Fall 2018):
+Math Programming I (IEOR 262A, Fall 2018):
 	https://atamturk.ieor.berkeley.edu/ieor262a/
 
 Engineering Statistics, Quality Control, and Forecasting (IEOR 165, Spring 2018): 
