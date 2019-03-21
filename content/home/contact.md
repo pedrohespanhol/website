@@ -11,8 +11,6 @@ subtitle = ""
 weight = 70
 
 # Automatically link email and phone?
-autolink = false
-
-email_form  = 0
+autolink = true
 +++
 
