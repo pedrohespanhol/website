@@ -39,6 +39,6 @@ I am a Ph.D student in Industrial Engineering and Operations Research at UC Berk
 
 My research is mainly focused on the interplay between control, learning and optimization, with emphasis on autonomous systems, such as self-driving vehicles, satellites, and robots. In particular, I study optimization algorithms and statistical learning techniques that are able to provide safe and efficient real-time operation of such systems. I have work experience with software development of embedded algorithms for real-time applications, including nonlinear, hybrid, and stochastic systems. I am also interested in all aspects of computational optimization, from modeling techniques to state-of-the-art practical implementations.
 
-I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with Reseachers [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mistubishi Electric Research Laboratories [MERL](http://www.merl.com/).
+I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with Researchers [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mitsubishi Electric Research Laboratories [MERL](http://www.merl.com/).
 
 {{% staticref "files/Pedro Hespanhol Resume_FULL.pdf" "newtab" %}}My CV{{% /staticref %}}
