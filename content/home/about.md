@@ -41,4 +41,4 @@ My research is mainly focused on the interplay between control, learning and opt
 
 I have collaborated with Professor [Ram Vasudevan](http://www.roahmlab.com/ram-personal) at Univertisy of Michigan and with Researchers [Rien Quirynen](https://scholar.google.de/citations?user=i3vsPLcAAAAJ&hl=en) and [Stefano Di Cairano](https://scholar.google.de/citations?user=Kl8rWSgAAAAJ&hl=en) at Mitsubishi Electric Research Laboratories [MERL](http://www.merl.com/).
 
-{{% staticref "files/Pedro Hespanhol Resume_FULL.pdf" "newtab" %}}My CV{{% /staticref %}}
+{{% staticref "files/Pedro_CV.pdf" "newtab" %}}My CV{{% /staticref %}}
