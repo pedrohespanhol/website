@@ -1,10 +1,10 @@
 +++
-title = "Simulation and Real-World Evaluation of Attack Detection Schemes"
-date = 2018-08-05T15:24:28-07:00
+title = "SHypothesis Testing Approach to Detecting Collusion in Competitive Environments"
+date = 2020-03-22T15:18:09-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Matthew Porter", "Arnav Joshi", "Pedro Hespanhol", "Anil Aswani", "Matthew Johnson-Roberson", "Ram Vasudevan"]
+authors = ["Pedro Hespanhol", "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Matthew Porter", "Arnav Joshi", "Pedro Hespanhol", "Anil Aswani", "M
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Simulation and Real-World Evaluation of Attack Detection Schemes"
+publication = "Hypothesis Testing Approach to Detecting Collusion in Competitive Environments"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1810.07773"
+url_pdf = "https://arxiv.org/abs/2003.09967"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

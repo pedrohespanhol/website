@@ -1,10 +1,10 @@
 +++
-title = "Finite-Time Dynamic Watermarking for General LTI Systems with Switching"
-date = 2019-03-21T15:20:09-07:02
+title = "Detecting Deception Attacks on Autonomous Vehicles via Linear Time-Varying Dynamic Watermarking"
+date = 2020-01-24T14:03:57-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
+authors = ["Matthew Porter", "Sidhartha Dey", "Arnav Joshi", "Pedro Hespanhol", "Anil Aswani", "Matthew Johnson-Roberson", "Ram Vasudevan"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Finite-Time Dynamic Watermarking for General LTI Systems with Switching"
+publication = "Detecting Deception Attacks on Autonomous Vehicles via Linear Time-Varying Dynamic Watermarking"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/2001.09859"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

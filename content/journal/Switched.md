@@ -1,10 +1,10 @@
 +++
-title = "Dynamic Watermarking for General LTI Systems"
-date = 2017-12-12T13:53:25-08:00
+title = "Statistical Consistency of Set-Membership Estimator for Linear Systems"
+date = 2020-04-28T15:20:09-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
+authors = ["Pedro Hespanhol", "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Dynamic Watermarking for General LTI Systems"
+publication = "Statistical Consistency of Set-Membership Estimator for Linear Systems"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8263914"
+url_pdf = "https://ieeexplore.ieee.org/document/9079909"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -1,10 +1,10 @@
 +++
-title = "Statistically-Consistent Identification of Switched Linear Systems"
-date = 2019-03-21T15:20:09-07:00
+title = "Detecting Generalized Replay Attacks via Time-Varying Dynamic Watermarking"
+date = 2019-09-17T15:20:09-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Anil Aswani"]
+authors = ["Matthew Porter", Pedro Hespanhol, Anil Aswani, Matthew Johnson-Roberson, and Ram Vasudevan]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Statistically-Consistent Identification of Switched Linear Systems"
+publication = "Detecting Generalized Replay Attacks via Time-Varying Dynamic Watermarking"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1903.07552"
+url_pdf = "https://arxiv.org/abs/1909.08111"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

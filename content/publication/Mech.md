@@ -1,6 +1,6 @@
 +++
 title = "Surrogate Optimal Control for Strategic Multi-Agent Systems"
-date = 2019-03-21T15:18:09-07:00
+date = 2019-12-11T15:18:09-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1903.07559"
+url_pdf = "https://ieeexplore.ieee.org/document/9029475"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

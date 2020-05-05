@@ -1,6 +1,6 @@
 +++
 title = "A Structure Exploiting Branch-and-Bound Algorithm for Mixed-Integer Model Predictive Control"
-date = 2019-03-20T15:27:19-07:00
+date = 2019-06-25T15:27:19-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1903.09117"
+url_pdf = "https://ieeexplore.ieee.org/document/8796242"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

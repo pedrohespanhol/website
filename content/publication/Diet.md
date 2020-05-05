@@ -1,6 +1,6 @@
 +++
 title = "Family-Personalized Dietary Planning with Temporal Dynamics"
-date = 2017-08-06T14:01:16-08:00
+date = 2018-06-27T14:01:16-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

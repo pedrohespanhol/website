@@ -1,10 +1,10 @@
 +++
-title = "Dynamic Watermarking for General LTI Systems"
-date = 2017-12-12T13:53:25-08:00
+title = "Simulation and Real-World Evaluation of Attack Detection Schemes"
+date = 2018-06-27T14:03:57-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
+authors = ["Matthew Porter", "Arnav Joshi", "Pedro Hespanhol, "Anil Aswani", "Matthew Johnson-Roberson", "Ram Vasudevan"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Dynamic Watermarking for General LTI Systems"
+publication = "Simulation and Real-World Evaluation of Attack Detection Schemes"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8263914"
+url_pdf = "https://ieeexplore.ieee.org/document/8815318"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

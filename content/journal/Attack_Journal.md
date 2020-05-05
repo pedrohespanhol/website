@@ -1,10 +1,10 @@
 +++
-title = "Adjoint-based SQP Method with Block-wise quasi-Newton Jacobian Updates for Nonlinear Optimal Control"
-date = 2018-08-08T15:16:08-07:00
+title = "Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests"
+date = 2019-08-30T15:20:09-07:02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pedro Hespanhol", "Rien Quirynen"]
+authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Adjoint-based SQP Method with Block-wise quasi-Newton Jacobian Updates for Nonlinear Optimal Control"
+publication = "Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1903.08720"
+url_pdf = "https://arxiv.org/abs/1909.00014"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

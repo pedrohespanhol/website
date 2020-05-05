@@ -1,6 +1,6 @@
 +++
 title = "A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control"
-date = 2018-08-08T14:28:45-07:00
+date = 2018-06-12T14:28:45-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8550541"
+url_pdf = "https://ieeexplore.ieee.org/document/8550541"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
