@@ -1,5 +1,5 @@
 +++
-title = "SHypothesis Testing Approach to Detecting Collusion in Competitive Environments"
+title = "Hypothesis Testing Approach to Detecting Collusion in Competitive Environments"
 date = 2020-03-22T15:18:09-07:00
 draft = false
 
