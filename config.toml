@@ -248,7 +248,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Teaching"
+  name = "TEMP"
   url = "#teaching"
   weight = 3
 
@@ -258,7 +258,7 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Invited Talks"
+  name = "Teaching"
   url = "#talks"
   weight = 5
 
