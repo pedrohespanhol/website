@@ -7,7 +7,7 @@ time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
 event = "Industrial Engineering and Operations Research"
-event_url = ""
+event_url = "https://example.org"
 location = "University of California Berkeley"
 
 # Is this a selected talk? (true/false)
@@ -88,26 +88,3 @@ Lecture 20: Recap of Approximate DP and Reinforcement Learning {{% staticref "fi
 Lecture 21: Inverse Decision Making Problems {{% staticref "files/Lecture_slides_21.pdf" "newtab" %}}lecture slides{{% /staticref %}}
 
 Lecture 22: Inverse Optimization and Variational Inequalities {{% staticref "files/Lecture_slides_22.pdf" "newtab" %}}lecture slides{{% /staticref %}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
