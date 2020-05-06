@@ -2,8 +2,8 @@
 date = 2020-01-01T00:00:00  # Schedule page publish date.
 
 title = "IEOR 265 - Learning  Optimization - Spring 2020"
-time_start = 2020-01-01T13:00:00
-time_end = 2020-05-15T15:00:00
+time_start = ""
+time_end = ""
 abstract = ""
 abstract_short = ""
 event = ""
@@ -16,7 +16,7 @@ selected = false
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+projects = ""
 
 # Links (optional).
 url_pdf = ""
