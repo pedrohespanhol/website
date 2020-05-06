@@ -2,10 +2,10 @@
 date = 2020-01-01T00:00:00  # Schedule page publish date.
 
 title = "IEOR 265 - Learning  Optimization - Spring 2020"
+time_start = 2030-06-01T13:00:00
+time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Industrial Engineering and Operations Research"
-event_url = "https://example.org"
 location = "University of California Berkeley"
 
 # Is this a selected talk? (true/false)
