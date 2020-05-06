@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Industrial Engineering and Operations Research"
   institution = "University of California Berkeley"
-  year = "present"
+  year = "2020"
 
 [[education.courses]]
   course = "MS in Industrial Engineering and Operations Research"
@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am a PhD student in Industrial Engineering and Operations Research at UC Berkeley working with Professor [Anil Aswani](https://aswani.ieor.berkeley.edu/). I obtained my Bachelor's degree in Industrial Engineering at Pontificia Universidade Catolica do Rio de Janeiro, Brazil.
+I am a PhD in Industrial Engineering and Operations Research at UC Berkeley working with Professor [Anil Aswani](https://aswani.ieor.berkeley.edu/). I obtained my Bachelor's degree in Industrial Engineering at Pontificia Universidade Catolica do Rio de Janeiro, Brazil. On May 2020, I have successfully defended my PhD thesis.
 
 My research is mainly focused on the interplay between control, learning and optimization, with emphasis on autonomous systems, such as self-driving vehicles, satellites, and robots. In particular, I study optimization algorithms and statistical learning techniques that are able to provide safe and efficient real-time operation of such systems. I have work experience with software development of embedded algorithms for real-time applications, including nonlinear, hybrid, and stochastic systems. I am also interested in all aspects of computational optimization, from modeling techniques to state-of-the-art practical implementations.
 
