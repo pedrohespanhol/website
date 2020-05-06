@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "pedrohespanhol@berkeley.edu"
-  address = "2521 Hearst Ave, Berkeley, CA 94709"
+  address = "1154A Hearst Ave, Berkeley, CA 94702"
   office_hours = ""
   phone = ""
   skype = ""
@@ -253,9 +253,19 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
+  name = "Honor and Awards"
+  url = "#awards"
+  weight = 4
+
+[[menu.main]]
+  name = "Talks and Presentations"
+  url = "#talks"
+  weight = 5
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 6
 
 # Taxonomies.
 [taxonomies]

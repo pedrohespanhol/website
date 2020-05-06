@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Optimization Algorithms for Optimal Control",
-    "Learning & Control",
+    "Reinforcement Learning and Dynamic Programming",
     "Algorithmic Mechanism Design",
   ]
 
