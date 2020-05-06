@@ -1,11 +1,13 @@
 +++
-date = 2020-01-01T00:00:00  # Schedule page publish date.
+date = 2020-01-21T00:00:00  # Schedule page publish date.
 
 title = "IEOR 265 - Learning  Optimization - Spring 2020"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2020-01-21T15:30:00
+time_end = 2020-04-30T17:00:00
 abstract = ""
 abstract_short = ""
+event = "Graduate Level course - IEOR Department"
+event_url = "https://ieor.berkeley.edu/"
 location = "University of California Berkeley"
 
 # Is this a selected talk? (true/false)
