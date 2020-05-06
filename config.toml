@@ -248,18 +248,18 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
+  name = "Teaching"
+  url = "#talks"
+  weight = 3
+
+[[menu.main]]
   name = "TA"
   url = "#teaching"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Honor and Awards"
   url = "#awards"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#talks"
   weight = 5
 
 [[menu.main]]

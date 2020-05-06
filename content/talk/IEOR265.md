@@ -39,7 +39,7 @@ caption = "My caption :smile:"
 
 Course Description:
 
-This course will cover topics related to the interplay between optimization and statistical learning. The rst part of the course will cover the fundamentals, methods, and algorithms for dynamic programming, and optimal control. We will study approximate dynamic programming and the formulation and numerical implementation of several different algorithms and reinforcement learning methods. In addition we will study learning-based model predictive control (LBMPC), which is a method for robust adaptive optimization that can use machine learning to provide the adaptation online. The second part of the course will deal with inverse decision-making problems, which are problems where an agent's decisions are observed and used to infer properties about the agent, such as preferences, utility functions, etc.
+This course covers topics related to the interplay between optimization and statistical learning. The first part of the course will cover the fundamentals, methods, and algorithms for dynamic programming, and optimal control. We will study approximate dynamic programming and the formulation and numerical implementation of several different algorithms and reinforcement learning methods. In addition we will study learning-based model predictive control (LBMPC), which is a method for robust adaptive optimization that can use machine learning to provide the adaptation online. The second part of the course will deal with inverse decision-making problems, which are problems where an agent's decisions are observed and used to infer properties about the agent, such as preferences, utility functions, etc.
 
 Course {{% staticref "files/Syllabus.pdf" "newtab" %}}Syllabus - Spring 2020{{% /staticref %}}
 
