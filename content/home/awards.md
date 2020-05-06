@@ -15,26 +15,26 @@ weight = 60
 
 +++
 
-*Marshall-Oliver-Rosenberger Fellowship Award - granted by the Industrial Engineering and Op-
+Marshall-Oliver-Rosenberger Fellowship Award - granted by the Industrial Engineering and Op-
 erations Research Department at University of California Berkeley
 	{{% staticref "files/MOR_Award.pdf" "newtab" %}}(link){{% /staticref %}}
 
-*Outstanding GSI Awards - granted by the Industrial Engineering and Operations Research Depart-
+Outstanding GSI Awards - granted by the Industrial Engineering and Operations Research Depart-
 ment at University of California Berkeley
 	{{% staticref "files/Outstanding_GSI_Award.pdf" "newtab" %}}(link){{% /staticref %}}
 
-*Outstanding Graduate Student Instructor 2019 - granted by the Graduate Division of University
+Outstanding Graduate Student Instructor 2019 - granted by the Graduate Division of University
 of California Berkeley
 	{{% staticref "files/Outstanding_Graduate_Instructor_Award.pdf" "newtab" %}}(link){{% /staticref %}}
 
-*ENGIE Brazil Innovation Prize - granted by ENGIE Group for the development of the HERA
+ENGIE Brazil Innovation Prize - granted by ENGIE Group for the development of the HERA
 software.
 
-*PUC's Academic Performance Premium - granted by Pontical Catholic University of Rio de
+PUC's Academic Performance Premium - granted by Pontical Catholic University of Rio de
 Janeiro to students with the highest GPA.
 
-*Medal Graca Couto - granted by the Military School of Rio de Janeiro to the student with the highest
+Medal Graca Couto - granted by the Military School of Rio de Janeiro to the student with the highest
 academic performance of the school.
 
-*Medal Thomaz Coelho - granted by the Military School of Rio de Janeiro to the student with the
+Medal Thomaz Coelho - granted by the Military School of Rio de Janeiro to the student with the
 highest GPU during all years during highschool.
