@@ -33,7 +33,7 @@ software.
 PUC's Academic Performance Premium - granted by Pontical Catholic University of Rio de
 Janeiro to students with the highest GPA.
 
-Medal Graca Couto - granted by the Military School of Rio de Janeiro to the student with the highest
+Medal Graça Couto - granted by the Military School of Rio de Janeiro to the student with the highest
 academic performance of the school.
 
 Medal Thomaz Coelho - granted by the Military School of Rio de Janeiro to the student with the
