@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Statistical Consistency of Set-Membership Estimator for Linear Systems"
+publication = "IEEE Control Systems Letters (2020)"
 publication_short = ""
 
 # Abstract and optional shortened version.

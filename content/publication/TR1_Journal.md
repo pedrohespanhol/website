@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Adjoint-based SQP Method with Block-wise quasi-Newton Jacobian Updates for Nonlinear Optimal Control"
+publication = "Optimization Methods and Software (2019)"
 publication_short = ""
 
 # Abstract and optional shortened version.

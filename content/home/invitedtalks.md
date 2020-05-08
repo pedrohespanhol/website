@@ -16,7 +16,7 @@ weight = 70
 +++
 
 Surrogate Optimal Control for Strategic Multi Agent Systems
-	Professor S. Shankar Sastry semiautonomous group at UC Berkeley
+	Professor S. Shankar Sastry semiautonomous group at UC Berkeley.
 
 A Structure Exploiting Branch-and-bound Algorithm For Mixed-integer Model Predictive Control
 	INFORMS Annual Meeting, Seattle, WA, 2019.

@@ -18,7 +18,7 @@ authors = ["Matthew Porter", "Pedro Hespanhol", "Anil Aswani", "Matthew Johnson-
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Detecting Generalized Replay Attacks via Time-Varying Dynamic Watermarking"
+publication = "Submitted to IEEE Transactions on Automatic Control, under 2nd round of review (2020)"
 publication_short = ""
 
 # Abstract and optional shortened version.

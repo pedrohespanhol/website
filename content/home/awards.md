@@ -16,15 +16,15 @@ weight = 60
 +++
 
 Marshall-Oliver-Rosenberger Fellowship Award - granted by the Industrial Engineering and Op-
-erations Research Department at University of California Berkeley
+erations Research Department at University of California Berkeley.
 	{{% staticref "files/MOR_Award.pdf" "newtab" %}}(link){{% /staticref %}}
 
 Outstanding GSI Awards - granted by the Industrial Engineering and Operations Research Depart-
-ment at University of California Berkeley
+ment at University of California Berkeley.
 	{{% staticref "files/Outstanding_GSI_Award.pdf" "newtab" %}}(link){{% /staticref %}}
 
 Outstanding Graduate Student Instructor 2019 - granted by the Graduate Division of University
-of California Berkeley
+of California Berkeley.
 	{{% staticref "files/Outstanding_Graduate_Instructor_Award.pdf" "newtab" %}}(link){{% /staticref %}}
 
 ENGIE Brazil Innovation Prize - granted by ENGIE Group for the development of the HERA

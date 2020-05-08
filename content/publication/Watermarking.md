@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Dynamic Watermarking for General LTI Systems"
+publication = "In Proceedings of Conference on Decision and Control (CDC) (2017)"
 publication_short = ""
 
 # Abstract and optional shortened version.

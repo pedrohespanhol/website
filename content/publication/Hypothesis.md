@@ -18,7 +18,8 @@ authors = ["Pedro Hespanhol", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Hypothesis Testing Approach to Detecting Collusion in Competitive Environments"
+publication = "In Proceedings of International Conference on Performance Evaluation Methodologies and Tools (Val-
+uetools), to appear (2020)"
 publication_short = ""
 
 # Abstract and optional shortened version.

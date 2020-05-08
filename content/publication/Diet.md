@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Family-Personalized Dietary Planning with Temporal Dynamics"
+publication = "In Proceedings of American Control Conference (ACC) (2018)"
 publication_short = ""
 
 # Abstract and optional shortened version.

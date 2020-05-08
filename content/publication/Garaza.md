@@ -18,7 +18,7 @@ authors = ["Christian Rabbi Garaza", "Pedro Hespanhol", "Yonatan Mintz", "Jhoann
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Impact of Occupancy Modeling and Horizon Length on HVAC Controller Efficiency"
+publication = "In Proceedings of European Control Conference (ECC) (2018)"
 publication_short = ""
 
 # Abstract and optional shortened version.

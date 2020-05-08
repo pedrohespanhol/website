@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control"
+publication = "In Proceedings of European Control Conference (ECC) (2018)"
 publication_short = ""
 
 # Abstract and optional shortened version.

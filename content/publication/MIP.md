@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen", "Stefano Di Cairano"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "A Structure Exploiting Branch-and-Bound Algorithm for Mixed-Integer Model Predictive Control"
+publication = "In Proceedings of European Control Conference (ECC) (2019)"
 publication_short = ""
 
 # Abstract and optional shortened version.

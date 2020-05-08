@@ -18,7 +18,7 @@ authors = ["Pedro Hepanhol", "Rien Quirynen"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Quasi-Newton Jacobian and Hessian Updates for Pseudospectral based NMPC"
+publication = "In Proceedings of International Federation of Automatic Control (IFAC) (2018)"
 publication_short = ""
 
 # Abstract and optional shortened version.

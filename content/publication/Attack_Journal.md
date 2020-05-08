@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests"
+publication = "Submitted to IEEE Transactions on Automatic Control, under 2nd round of review (2020)"
 publication_short = ""
 
 # Abstract and optional shortened version.
