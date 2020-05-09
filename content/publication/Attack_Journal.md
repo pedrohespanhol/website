@@ -1,6 +1,6 @@
 +++
 title = "Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests"
-date = 2020-02-30T15:20:09-07:02
+date = 2020-02-10T15:20:09-07:02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
