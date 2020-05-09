@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Optimization Methods and Software (2019)"
+publication = "Optimization Methods and Software"
 publication_short = ""
 
 # Abstract and optional shortened version.

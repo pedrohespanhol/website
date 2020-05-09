@@ -18,7 +18,7 @@ authors = ["Christian Rabbi Garaza", "Pedro Hespanhol", "Yonatan Mintz", "Jhoann
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of European Control Conference (ECC) (2018)"
+publication = "In Proceedings of European Control Conference (ECC)"
 publication_short = ""
 
 # Abstract and optional shortened version.

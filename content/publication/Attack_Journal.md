@@ -1,6 +1,6 @@
 +++
 title = "Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests"
-date = 2019-08-30T15:20:09-07:02
+date = 2020-02-30T15:20:09-07:02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to IEEE Transactions on Automatic Control, under 2nd round of review (2020)"
+publication = "Submitted to IEEE Transactions on Automatic Control, under 2nd round of review"
 publication_short = ""
 
 # Abstract and optional shortened version.

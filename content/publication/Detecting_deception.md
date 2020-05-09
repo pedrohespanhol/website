@@ -18,7 +18,7 @@ authors = ["Matthew Porter", "Sidhartha Dey", "Arnav Joshi", "Pedro Hespanhol", 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of Conference on Control Technology and Applications (CCTA), to appear (2020)"
+publication = "In Proceedings of Conference on Control Technology and Applications (CCTA), to appear"
 publication_short = ""
 
 # Abstract and optional shortened version.

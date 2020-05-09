@@ -22,7 +22,7 @@ publication = "Surrogate Optimal Control for Strategic Multi-Agent Systems"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In Proceedings of Conference on Decision and Control (CDC) (2019)"
+abstract = "In Proceedings of Conference on Decision and Control (CDC)"
 abstract_short = ""
 
 # Featured image thumbnail (optional)

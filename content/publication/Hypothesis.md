@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of International Conference on Performance Evaluation Methodologies and Tools (Valuetools), to appear (2020)"
+publication = "In Proceedings of International Conference on Performance Evaluation Methodologies and Tools (Valuetools)"
 publication_short = ""
 
 # Abstract and optional shortened version.

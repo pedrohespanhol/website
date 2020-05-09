@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Rien Quirynen", "Stefano Di Cairano"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of European Control Conference (ECC) (2019)"
+publication = "In Proceedings of European Control Conference (ECC)"
 publication_short = ""
 
 # Abstract and optional shortened version.

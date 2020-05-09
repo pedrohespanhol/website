@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Matthew Porter", "Ram Vasudevan", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of American Control Conference (ACC) (2018)"
+publication = "In Proceedings of American Control Conference (ACC)"
 publication_short = ""
 
 # Abstract and optional shortened version.

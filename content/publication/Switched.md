@@ -18,7 +18,7 @@ authors = ["Pedro Hespanhol", "Anil Aswani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Control Systems Letters (2020)"
+publication = "IEEE Control Systems Letters"
 publication_short = ""
 
 # Abstract and optional shortened version.
