@@ -1,7 +1,7 @@
 +++
 date = 2020-01-21T00:00:00  # Schedule page publish date.
 
-title = "IEOR 265 - Learning  Optimization - Spring 2020"
+title = "IEOR 265 - Learning and Optimization - Spring 2020"
 time_start = 2020-01-21T15:30:00
 time_end = 2020-04-30T17:00:00
 abstract = ""
