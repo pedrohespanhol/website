@@ -43,6 +43,8 @@ This course covers topics related to the interplay between optimization and stat
 
 Course {{% staticref "files/Syllabus.pdf" "newtab" %}}Syllabus - Spring 2020{{% /staticref %}}
 
+Spring 2020 {{% staticref "files/course_evaluation.pdf" "newtab" %}}course evaluation{{% /staticref %}}
+
 Course Material: 
 
 Lecture 1: Introduction to Dynamic Programming {{% staticref "files/Note1.pdf" "newtab" %}}lecture notes{{% /staticref %}} - {{% staticref "files/Lecture_slides_1.pdf" "newtab" %}}chess match example{{% /staticref %}}
