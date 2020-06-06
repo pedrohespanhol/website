@@ -20,3 +20,4 @@ list_format = 0
 
 +++
 
+{{% staticref "files/course_evaluation.pdf" "newtab" %}}(course evaluation){{% /staticref %}}
